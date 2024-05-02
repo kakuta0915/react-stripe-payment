@@ -90,7 +90,7 @@ const Logo = () => (
     viewBox="0 0 14 16"
     version="1.1"
   >
-    <defs />
+    <defs/>
     <g id="Flow" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
       <g
         id="0-Default"
